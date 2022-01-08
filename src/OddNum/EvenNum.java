@@ -5,6 +5,7 @@ public class EvenNum {
 	int n=9;
 	if(n%2==0) {
 		System.out.println("even");
+		System.out.println("this is even number");
 	}
 	else {
 		System.out.println("odd");
